@@ -155,6 +155,8 @@ switch (starWarsCharacters) {
   case "C-3PO":
     eyeColor = yellow;
     break;
+
+  case "R2-D2"
 }
 
 /* ESERCIZIO 6
